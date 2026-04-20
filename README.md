@@ -7,10 +7,9 @@
 - `sitemap.xml`
 - `robots.txt`
 
-## 배포 전 수정할 것
-- `index.html`의 `canonical`, `og:url`에 실제 배포 주소 입력
-- `sitemap.xml`의 `loc`를 실제 배포 주소로 변경
-- `robots.txt`의 `Sitemap` 주소를 실제 배포 주소로 변경
+## 배포 주소 반영 완료
+- Canonical URL: `https://bandai-friend-invite-landing-ko.vercel.app/`
+- Sitemap URL: `https://bandai-friend-invite-landing-ko.vercel.app/sitemap.xml`
 
 ## 추천인 ID
 - `starbees`
